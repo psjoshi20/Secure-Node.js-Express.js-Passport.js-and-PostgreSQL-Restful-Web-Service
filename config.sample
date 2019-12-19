@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "reachuser",
+    "password": "reachpassword",
+    "database": "secure-node",
+    "host": "127.0.0.1",
+    "port":"5436",
+    "dialect": "postgres"
+    
+  },
+  "test": {
+   "username": "reachuser",
+   "password": "reachpassword",
+    "database": "secure-node",
+    "host": "127.0.0.1",
+    "port":"5436",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+   "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+   
+  }
+}

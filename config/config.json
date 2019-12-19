@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "reachuser",
+    "password": "reachpassword",
+    "database": "secure-node",
+    "host": "127.0.0.1",
+    "port":"5436",
+    "dialect": "postgres"
+    
+  },
+  "test": {
+   "username": "reachuser",
+   "password": "reachpassword",
+    "database": "secure-node",
+    "host": "127.0.0.1",
+    "port":"5436",
+    "dialect": "postgres"
+  }
+  
+}
